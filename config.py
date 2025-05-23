@@ -900,7 +900,7 @@ current_file = Path(__file__).resolve()
 project_root = current_file.parent
 
 # 构建图片目录路径
-image_dir = project_root / "Data" / "Images"
+image_dir = project_root / "Data" / "images"
 database_dir = project_root / "Data" / "Dataset.csv"
 model_dir = project_root / "Data" / "Model"
 EQ_excel_dir = project_root / "Data" / "EQ Excel"
