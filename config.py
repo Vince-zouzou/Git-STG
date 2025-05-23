@@ -895,10 +895,10 @@ TRANSLATOR_CONFIG = {
 }
 
 
-source_path = {'database':'Data/Dataset.csv',
-                'images':'Data/Images/',
-                'model':'Data/Model/',
-                'EQ excel':'Data/EQ Excel/',
+source_path = {'database':'./Data/Dataset.csv',
+                'images':'./Data/Images/',
+                'model':'./Data/Model/',
+                'EQ excel':'./Data/EQ Excel/',
                 'embedding': 'sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2',
                 'search': {
                             'default_k': 20,
