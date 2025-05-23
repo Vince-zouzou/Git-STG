@@ -4,3 +4,5 @@ langchain_community
 langchain_huggingface
 faiss-cpu
 plotly
+openai
+docx
