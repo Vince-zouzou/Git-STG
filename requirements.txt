@@ -7,7 +7,7 @@ openai
 PyPDF2
 pytesseract
 
-streamlit>=1.28.0
+streamlit
 torch==1.13.1+cpu
 sentence-transformers==2.2.2
 langchain-huggingface==0.0.3
