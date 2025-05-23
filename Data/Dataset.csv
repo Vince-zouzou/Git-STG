@@ -1,0 +1,530 @@
+Index,No,Description,Description_Images,Factory Suggestion,Factory_Suggestion_Images,STG Proposal,STG_Proposal_Images,Customer Decision,Customer_Decision_Images,EQ Status,Customer Name,Customer P/N,Factory P/N,Date,Base Material,Solder Mask,Via Plugging Type,Engineer Name,Panel Size,STG P/N,FileName,Previous Case,Closed Date
+0,1,"Rongda H-9100 8G is defined in file, but it's not our normal material",2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_1.png,"Suggestion:
+use Rongda H-9100 6GHB glossy green with Halogen free",2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_1.png,,2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_1.png,confirmed,2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_1.png,Closed,Becom.AT.Hochstrass, UBL3928--A,JA2C719EA0,2022-08-22 00:00:00,FR4 S1170G Halogen free with TG170,see Q1,,Sunny Yang,,04R012526.A00,2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0).xlsx,True,2025-01-01
+1,2,About the markings,2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_2.png;2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_3.png,"We'll plase customer's number,PCB-no. and date code in pcs on bot S/M layer, details refer to below
+
+
+
+
+
+
+
+
+
+
+
+and also place UL markings (CML-G 7DF E330796  c兄us 94V-0) in breakaway on bot S/M layer",2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_2.png;2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_3.png,,2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_2.png;2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_3.png,CML MN: confirmed,2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_2.png;2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_3.png,Closed,Becom.AT.Hochstrass, UBL3928--A,JA2C719EA0,2022-08-22 00:00:00,FR4 S1170G Halogen free with TG170,see Q1,,Sunny Yang,,04R012526.A00,2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0).xlsx,True,2025-01-01
+2,3,No attributes for holes ,2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_4.png,"Suggestion:
+control as picture below
+
+
+
+
+
+
+
+
+
+",2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_4.png,,2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_4.png,CML MN: confirmed,2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_4.png,Closed,Becom.AT.Hochstrass, UBL3928--A,JA2C719EA0,2022-08-22 00:00:00,FR4 S1170G Halogen free with TG170,see Q1,,Sunny Yang,,04R012526.A00,2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0).xlsx,True,2025-01-01
+3,4,As snapshot below，the tolerance of holes is too tight,2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_5.png,"suggestion：
+NPTH and NPTH slot：relax +0.05/0 to +0.1/-0
+PTH:relax +0.1/-0 to +0.15/-0",2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_5.png,,2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_5.png,"you can relax NPTH to +/-0.05
+
+you can relax PTH to +/-0.075",2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_5.png,Closed,Becom.AT.Hochstrass, UBL3928--A,JA2C719EA0,2022-08-22 00:00:00,FR4 S1170G Halogen free with TG170,see Q1,,Sunny Yang,,04R012526.A00,2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0).xlsx,True,2025-01-01
+4,5,As snapshot below，we can't  inspect  some dimentions,2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_6.png,Suggestion： ignore them,2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_6.png,,2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_6.png,ignore them,2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_6.png,Closed,Becom.AT.Hochstrass, UBL3928--A,JA2C719EA0,2022-08-22 00:00:00,FR4 S1170G Halogen free with TG170,see Q1,,Sunny Yang,,04R012526.A00,2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0).xlsx,True,2025-01-01
+5,6,The tolerance of hole to outline is only +/-0.08mm，we can't meet it,2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_7.png,Suggestion： relax it from +/-0.08mm to +/-0.13mm,2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_7.png,,2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_7.png,confirmed,2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_7.png,Closed,Becom.AT.Hochstrass, UBL3928--A,JA2C719EA0,2022-08-22 00:00:00,FR4 S1170G Halogen free with TG170,see Q1,,Sunny Yang,,04R012526.A00,2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0).xlsx,True,2025-01-01
+6,7,some position tolerance is too tight,2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_8.png;2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_9.png;2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_10.png;2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_11.png;2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_25.png,"Suggestion：
+control hole to hole as +/-0.076mm",2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_8.png;2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_9.png;2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_10.png;2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_11.png;2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_25.png,,2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_8.png;2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_9.png;2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_10.png;2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_11.png;2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_25.png,confirmed,2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_8.png;2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_9.png;2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_10.png;2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_11.png;2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_25.png,Closed,Becom.AT.Hochstrass, UBL3928--A,JA2C719EA0,2022-08-22 00:00:00,FR4 S1170G Halogen free with TG170,see Q1,,Sunny Yang,,04R012526.A00,2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0).xlsx,True,2025-01-01
+7,8,"About the feautres on breakaway，we have questions below：
+1.about the fiducial markings， there is a conflict in drawing
+
+
+
+
+
+
+
+
+
+
+2.some features without position on X-axle and Y-axle in drawing
+3.we'll place text on top S/M layer for note 5 and note 6,details refer to below
+
+
+
+
+
+
+
+
+4.For the note 3,note 4 and Becom panel-DMC, we'll only keep these area with covering solder mask and no copper, not need to place any other content
+
+
+
+
+
+
+
+
+5.About  the area for wirebond-testing, we'll add it with copper and without solder mask
+",2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_12.png,"Suggestion：
+1.to build fiducial markings following note 1 and ignore picture below
+
+
+
+
+
+
+
+2.Place these fearures in routhly the breakaway according to the drawing
+
+3.please confirm 3,4and 5
+
+
+
+",2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_12.png,,2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_12.png,"BECOM DS: 1. OK
+
+2. Don't understand the question
+3. Confirmed
+4. Follow this instruction: 
+
+
+
+
+5. Ignore it, no need for wirebond-testing
+
+
+
+
+",2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_12.png,Closed,Becom.AT.Hochstrass, UBL3928--A,JA2C719EA0,2022-08-22 00:00:00,FR4 S1170G Halogen free with TG170,see Q1,,Sunny Yang,,04R012526.A00,2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0).xlsx,True,2025-01-01
+8,9,"In order to avoid mistake, please confirm that we only need to  place 63F on BOT S/M layer according drawing",2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_13.png,Pleae confirm,2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_13.png,,2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_13.png,"BECOM DS: Confirmed
+",2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_13.png,Closed,Becom.AT.Hochstrass, UBL3928--A,JA2C719EA0,2022-08-22 00:00:00,FR4 S1170G Halogen free with TG170,see Q1,,Sunny Yang,,04R012526.A00,2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0).xlsx,True,2025-01-01
+9,10,these dimensions in drawing below can not be measured on board,2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_14.png;2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_15.png,"Suggestion
+ignore it ",2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_14.png;2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_15.png,,2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_14.png;2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_15.png,CML MN: confirmed,2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_14.png;2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_15.png,Closed,Becom.AT.Hochstrass, UBL3928--A,JA2C719EA0,2022-08-22 00:00:00,FR4 S1170G Halogen free with TG170,see Q1,,Sunny Yang,,04R012526.A00,2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0).xlsx,True,2025-01-01
+10,11,About the base materail and board thickness,2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_16.png;2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_21.png,"We'll build as below:
+base material:1.6mm( including copper) H/H OZ
+finished board thickness:1.68+/-0.15mm
+surface finished copper:35um Min.",2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_16.png;2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_21.png,,2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_16.png;2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_21.png,"BECOM DS: Confirmed
+",2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_16.png;2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_21.png,Closed,Becom.AT.Hochstrass, UBL3928--A,JA2C719EA0,2022-08-22 00:00:00,FR4 S1170G Halogen free with TG170,see Q1,,Sunny Yang,,04R012526.A00,2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0).xlsx,True,2025-01-01
+11,12,"we can't meet some requirements below:
+1. 100% automatic X-ray inspection
+
+
+
+
+
+2.magnification 15x",2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_23.png;2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_24.png,"Suggestion:
+1.ignore it
+2.use our normal tooling-magnification 10x",2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_23.png;2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_24.png,,2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_23.png;2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_24.png,follow 2. (no X-ray needed),2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_23.png;2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_24.png,Closed,Becom.AT.Hochstrass, UBL3928--A,JA2C719EA0,2022-08-22 00:00:00,FR4 S1170G Halogen free with TG170,see Q1,,Sunny Yang,,04R012526.A00,2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0).xlsx,True,2025-01-01
+12,13,"About the surface,we don't know what should be controled for A1 wire bonding",2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_22.png,"Suggesion:
+only control the thickness of  Ni/Au,content of phosphor and surface roughness following Appendix 1",2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_22.png,,2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_22.png,confirmed,2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_22.png,Closed,Becom.AT.Hochstrass, UBL3928--A,JA2C719EA0,2022-08-22 00:00:00,FR4 S1170G Halogen free with TG170,see Q1,,Sunny Yang,,04R012526.A00,2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0).xlsx,True,2025-01-01
+13,14,"As picture shown, there are some features on the bridges, we don't know what we shoud do with them",2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_17.png;2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_18.png;2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_19.png;2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_20.png,"Suggesion:
+Ignore them",2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_17.png;2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_18.png;2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_19.png;2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_20.png,,2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_17.png;2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_18.png;2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_19.png;2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_20.png,"BECOM DS: Confirmed
+",2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_17.png;2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_18.png;2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_19.png;2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0)_image_20.png,Closed,Becom.AT.Hochstrass, UBL3928--A,JA2C719EA0,2022-08-22 00:00:00,FR4 S1170G Halogen free with TG170,see Q1,,Sunny Yang,,04R012526.A00,2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0).xlsx,True,2025-01-01
+14,15,Some requiements are nothing to do with PCB manufactor,,"Suggesion:
+Ignore them",,,,"ignore DMC, BOM and delivery form. It is for assembly.
+
+But we need area for wire bonding. Wire bonding area is defined on panel frame (see note 2 on drawing). ",,Closed,Becom.AT.Hochstrass, UBL3928--A,JA2C719EA0,2022-08-22 00:00:00,FR4 S1170G Halogen free with TG170,see Q1,,Sunny Yang,,04R012526.A00,2- EQs CML to JST_20220901081722_AW EQ for UBL3928--A(JA2C719EA0).xlsx,True,2025-01-01
+15,1,The solder mask colour is different between the CML PO and cutomer PCB spec,2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_6.png,"We suggest to follow CML PO, use YeYo YSR-900 MBK01 black matt to do.
+
+Please confirm.",2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_6.png,,2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_6.png,"CML MN: confirmed
+Deltec KS: confirmed",2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_6.png,Closed,"Deltec, DE, Furth","35821922
+35821921","JB2C707TA0
+JB2C708TA0",2022-07-12 00:00:00," Dekai DK-C150,TG: 150 ºC,Anti-CAF",See Q1,,Kyle.Wang,,"02R012193.C00
+02R012192.C00",2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0).xlsx,True,2025-01-01
+16,2,"The pattern no. in the gerber are designed at the S/M top layer, it should be abnormal.",2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_4.png;2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_5.png;2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_7.png,"we suggest moving to the S/M bot layer.
+Please confirm.",2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_4.png;2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_5.png;2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_7.png,,2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_4.png;2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_5.png;2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_7.png,"CML MN: confirmed
+Deltec KS: confirmed",2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_4.png;2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_5.png;2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_7.png,Closed,"Deltec, DE, Furth","35821922
+35821921","JB2C707TA0
+JB2C708TA0",2022-07-12 00:00:00," Dekai DK-C150,TG: 150 ºC,Anti-CAF",See Q1,,Kyle.Wang,,"02R012193.C00
+02R012192.C00",2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0).xlsx,True,2025-01-01
+17,3,"About the UL marking,copper pad is added to the circuit layer of the original manuscript at the specified location.",2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_8.png,"We suggest delete copper pad and add UL mark.
+Please confirm.
+
+
+
+
+
+
+
+
+",2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_8.png,,2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_8.png,"CML MN: confirmed
+Deltec KS: confirmed",2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_8.png,Closed,"Deltec, DE, Furth","35821922
+35821921","JB2C707TA0
+JB2C708TA0",2022-07-12 00:00:00," Dekai DK-C150,TG: 150 ºC,Anti-CAF",See Q1,,Kyle.Wang,,"02R012193.C00
+02R012192.C00",2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0).xlsx,True,2025-01-01
+18,4,"The fiducials are designed outside the board, we suggest delete it.",2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_14.png;2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_15.png;2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_16.png,Please confirm.,2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_14.png;2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_15.png;2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_16.png,,2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_14.png;2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_15.png;2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_16.png,"CML MN: confirmed
+Deltec KS: confirmed",2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_14.png;2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_15.png;2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_16.png,Closed,"Deltec, DE, Furth","35821922
+35821921","JB2C707TA0
+JB2C708TA0",2022-07-12 00:00:00," Dekai DK-C150,TG: 150 ºC,Anti-CAF",See Q1,,Kyle.Wang,,"02R012193.C00
+02R012192.C00",2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0).xlsx,True,2025-01-01
+19,5,"SinglePCBdwg drawing is from previous version,and the location of the DMC area is different from gerber.",2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_12.png;2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_13.png,"We will ignore the DMC area in the single drawing and the DMC location follows gerber to do.
+Please confirm.",2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_12.png;2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_13.png,,2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_12.png;2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_13.png,"CML MN: confirmed
+Deltec KS: confirmed",2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_12.png;2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_13.png,Closed,"Deltec, DE, Furth","35821922
+35821921","JB2C707TA0
+JB2C708TA0",2022-07-12 00:00:00," Dekai DK-C150,TG: 150 ºC,Anti-CAF",See Q1,,Kyle.Wang,,"02R012193.C00
+02R012192.C00",2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0).xlsx,True,2025-01-01
+20,6,"The drawing requirements""mark only on bottom side"",but in gerber there are S/M opening on both sides.",2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_9.png;2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_10.png;2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_11.png,"We suggest delete top side S/M opening.
+Please confirm",2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_9.png;2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_10.png;2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_11.png,,2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_9.png;2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_10.png;2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_11.png,"CML MN: follow gerber
+DELTEC KS: follow gerber",2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_9.png;2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_10.png;2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_11.png,Closed,"Deltec, DE, Furth","35821922
+35821921","JB2C707TA0
+JB2C708TA0",2022-07-12 00:00:00," Dekai DK-C150,TG: 150 ºC,Anti-CAF",See Q1,,Kyle.Wang,,"02R012193.C00
+02R012192.C00",2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0).xlsx,True,2025-01-01
+21,7,"PN:35821922
+The tolerances require of finish hole are different ",2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_17.png;2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_18.png,We suggest to follow PanelDrilldwg file to do(below pictuer),2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_17.png;2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_18.png,,2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_17.png;2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_18.png,"CML MN: confirmed
+Deltec KS: confirmed",2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_17.png;2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_18.png,Closed,"Deltec, DE, Furth","35821922
+35821921","JB2C707TA0
+JB2C708TA0",2022-07-12 00:00:00," Dekai DK-C150,TG: 150 ºC,Anti-CAF",See Q1,,Kyle.Wang,,"02R012193.C00
+02R012192.C00",2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0).xlsx,True,2025-01-01
+22,8,PTH/NPTH slots has no length tolerance.,2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_19.png;2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_20.png;2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_21.png;2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_22.png,"We suggest the length tolerance follow +/-0.1mm
+please confirm.",2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_19.png;2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_20.png;2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_21.png;2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_22.png,,2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_19.png;2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_20.png;2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_21.png;2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_22.png,"CML MN: confirmed, follow DIN ISO 2768m for elngth tolerance
+DELTEC KS: confirmed",2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_19.png;2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_20.png;2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_21.png;2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_22.png,Closed,"Deltec, DE, Furth","35821922
+35821921","JB2C707TA0
+JB2C708TA0",2022-07-12 00:00:00," Dekai DK-C150,TG: 150 ºC,Anti-CAF",See Q1,,Kyle.Wang,,"02R012193.C00
+02R012192.C00",2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0).xlsx,True,2025-01-01
+23,9,"PN:35821921
+As the picture show,hole tolerances are different",2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_23.png,"We suggest making according to the hole chart in the panel drawing
+Please confirm",2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_23.png,,2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_23.png,DELTEC KS: confirmed,2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_23.png,Closed,"Deltec, DE, Furth","35821922
+35821921","JB2C707TA0
+JB2C708TA0",2022-07-12 00:00:00," Dekai DK-C150,TG: 150 ºC,Anti-CAF",See Q1,,Kyle.Wang,,"02R012193.C00
+02R012192.C00",2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0).xlsx,True,2025-01-01
+24,10,"PN:35821921
+As the picture show,there is a 0.5mm hole in the gerber,and there is no solder mask opening on the top",,"We suggest add solder mask opening same as other vias.
+Please confirm",,,,CML MN: confirmed,,Closed,"Deltec, DE, Furth","35821922
+35821921","JB2C707TA0
+JB2C708TA0",2022-07-12 00:00:00," Dekai DK-C150,TG: 150 ºC,Anti-CAF",See Q1,,Kyle.Wang,,"02R012193.C00
+02R012192.C00",2- EQs CML to JST_20220719092045_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0).xlsx,True,2025-01-01
+25,1,Not defined base material,2- aw CML to scML_20220829130230_aw EQ for 17604001(JA2C716LA0)_image_3.png,"We suggest use DK-C140,TG: 135 ºC
+Please confirm",2- aw CML to scML_20220829130230_aw EQ for 17604001(JA2C716LA0)_image_3.png,,2- aw CML to scML_20220829130230_aw EQ for 17604001(JA2C716LA0)_image_3.png,CML MaG: confirmed,2- aw CML to scML_20220829130230_aw EQ for 17604001(JA2C716LA0)_image_3.png,Closed,"RaPa, DE, Selb",17604001,JA2C716LA0,2022-08-09 00:00:00,See Q1,See Q2,,Tina,,02R009655.A02,2- aw CML to scML_20220829130230_aw EQ for 17604001(JA2C716LA0).xlsx,True,2025-01-01
+26,2,Not defined solder mask type,2- aw CML to scML_20220829130230_aw EQ for 17604001(JA2C716LA0)_image_7.png,"We suggest use YSR-900 G01 with glossy green
+Please confirm",2- aw CML to scML_20220829130230_aw EQ for 17604001(JA2C716LA0)_image_7.png,,2- aw CML to scML_20220829130230_aw EQ for 17604001(JA2C716LA0)_image_7.png,CML MaG: acc CSI use Rongda H-9100 3G,2- aw CML to scML_20220829130230_aw EQ for 17604001(JA2C716LA0)_image_7.png,Closed,"RaPa, DE, Selb",17604001,JA2C716LA0,2022-08-09 00:00:00,See Q1,See Q2,,Tina,,02R009655.A02,2- aw CML to scML_20220829130230_aw EQ for 17604001(JA2C716LA0).xlsx,True,2025-01-01
+27,3,About UL marks,2- aw CML to scML_20220829130230_aw EQ for 17604001(JA2C716LA0)_image_4.png,"We suggest  only adding our UL ""CML-G 7JD 兄 94V-0 E330796""  and datecode“YY/WW”  at bottom circuit layer(ignore other companies' marks).                                                                               
+Please confirm",2- aw CML to scML_20220829130230_aw EQ for 17604001(JA2C716LA0)_image_4.png,,2- aw CML to scML_20220829130230_aw EQ for 17604001(JA2C716LA0)_image_4.png,CML MaG: confirmed,2- aw CML to scML_20220829130230_aw EQ for 17604001(JA2C716LA0)_image_4.png,Closed,"RaPa, DE, Selb",17604001,JA2C716LA0,2022-08-09 00:00:00,See Q1,See Q2,,Tina,,02R009655.A02,2- aw CML to scML_20220829130230_aw EQ for 17604001(JA2C716LA0).xlsx,True,2025-01-01
+28,4,We have no control the weight,2- aw CML to scML_20220829130230_aw EQ for 17604001(JA2C716LA0)_image_5.png;2- aw CML to scML_20220829130230_aw EQ for 17604001(JA2C716LA0)_image_6.png;2- aw CML to scML_20220829130230_aw EQ for 17604001(JA2C716LA0)_image_8.png,"We suggest ignore weight.
+Please confirm",2- aw CML to scML_20220829130230_aw EQ for 17604001(JA2C716LA0)_image_5.png;2- aw CML to scML_20220829130230_aw EQ for 17604001(JA2C716LA0)_image_6.png;2- aw CML to scML_20220829130230_aw EQ for 17604001(JA2C716LA0)_image_8.png,,2- aw CML to scML_20220829130230_aw EQ for 17604001(JA2C716LA0)_image_5.png;2- aw CML to scML_20220829130230_aw EQ for 17604001(JA2C716LA0)_image_6.png;2- aw CML to scML_20220829130230_aw EQ for 17604001(JA2C716LA0)_image_8.png,CML MaG: confirmed,2- aw CML to scML_20220829130230_aw EQ for 17604001(JA2C716LA0)_image_5.png;2- aw CML to scML_20220829130230_aw EQ for 17604001(JA2C716LA0)_image_6.png;2- aw CML to scML_20220829130230_aw EQ for 17604001(JA2C716LA0)_image_8.png,Closed,"RaPa, DE, Selb",17604001,JA2C716LA0,2022-08-09 00:00:00,See Q1,See Q2,,Tina,,02R009655.A02,2- aw CML to scML_20220829130230_aw EQ for 17604001(JA2C716LA0).xlsx,True,2025-01-01
+29,5,"There is nothing in the DXF provided by the customer,It's also unreadable",,"We suggest ignore DXF,We'll follow the original gerber and the working gerber.
+Please confirm",,,,CML MaG: follow gerber and PDF drawing,,Closed,"RaPa, DE, Selb",17604001,JA2C716LA0,2022-08-09 00:00:00,See Q1,See Q2,,Tina,,02R009655.A02,2- aw CML to scML_20220829130230_aw EQ for 17604001(JA2C716LA0).xlsx,True,2025-01-01
+30,1,"350643-00:For base material type
+
+
+
+
+
+
+
+
+
+
+
+350644-00:About base maerial,the requirements for Tg values are not the same",2- EQs CML to JST_20220907132342_EQ for 350643-00 & 350644-00（JP2C444LA0 & JP2C445LA0)_RMI_image_2.png,"350643-00:Suggest to use S1000-2M,TG: >170 ºC,CTI: PLC 3 (>=175 V) material.
+Please confirm
+
+
+
+
+
+
+
+
+
+350644-00:Suggest to use S1000H,TG: 150 ºC,CTI: PLC 3 (>=175 V) material.
+Please confirm",2- EQs CML to JST_20220907132342_EQ for 350643-00 & 350644-00（JP2C444LA0 & JP2C445LA0)_RMI_image_2.png,,2- EQs CML to JST_20220907132342_EQ for 350643-00 & 350644-00（JP2C444LA0 & JP2C445LA0)_RMI_image_2.png,"Theben RMI: confirmed to use S1000-2M for PCB 350643-00
+
+
+
+
+
+
+
+
+
+
+Theben RMI:confirmed to use S1000H for PCB 350644-00",2- EQs CML to JST_20220907132342_EQ for 350643-00 & 350644-00（JP2C444LA0 & JP2C445LA0)_RMI_image_2.png,Closed,"Theben, DE, Haigerloch","350643-00
+350644-00","JP2C444LA0
+JP2C445LA0",2022-09-02 00:00:00,See Q1,See Q2,,,,"02R015591.A00
+02R015592.A00",2- EQs CML to JST_20220907132342_EQ for 350643-00 & 350644-00（JP2C444LA0 & JP2C445LA0)_RMI.xlsx,True,2025-01-01
+31,2,customer don't indicate soldermask type.,,"Suggest to use YSR-900 G01 with glossy green.
+Please confirm",,,,"STG MN: confirmed
+Theben RMI: confirmed",,Closed,"Theben, DE, Haigerloch","350643-00
+350644-00","JP2C444LA0
+JP2C445LA0",2022-09-02 00:00:00,See Q1,See Q2,,,,"02R015591.A00
+02R015592.A00",2- EQs CML to JST_20220907132342_EQ for 350643-00 & 350644-00（JP2C444LA0 & JP2C445LA0)_RMI.xlsx,True,2025-01-01
+32,3,About UL,2- EQs CML to JST_20220907132342_EQ for 350643-00 & 350644-00（JP2C444LA0 & JP2C445LA0)_RMI_image_3.png;2- EQs CML to JST_20220907132342_EQ for 350643-00 & 350644-00（JP2C444LA0 & JP2C445LA0)_RMI_image_4.png,"We'll place our UL(ST-G 7JD 兄  94V-0 ) ,date code YYWW and  CTI>175 on top S/M layer(Since September 2nd, our company name has changed, so UL uses ST-G).
+Please confirm",2- EQs CML to JST_20220907132342_EQ for 350643-00 & 350644-00（JP2C444LA0 & JP2C445LA0)_RMI_image_3.png;2- EQs CML to JST_20220907132342_EQ for 350643-00 & 350644-00（JP2C444LA0 & JP2C445LA0)_RMI_image_4.png,,2- EQs CML to JST_20220907132342_EQ for 350643-00 & 350644-00（JP2C444LA0 & JP2C445LA0)_RMI_image_3.png;2- EQs CML to JST_20220907132342_EQ for 350643-00 & 350644-00（JP2C444LA0 & JP2C445LA0)_RMI_image_4.png,"STG MN: confirmed
+Theben RMI: confirmed",2- EQs CML to JST_20220907132342_EQ for 350643-00 & 350644-00（JP2C444LA0 & JP2C445LA0)_RMI_image_3.png;2- EQs CML to JST_20220907132342_EQ for 350643-00 & 350644-00（JP2C444LA0 & JP2C445LA0)_RMI_image_4.png,Closed,"Theben, DE, Haigerloch","350643-00
+350644-00","JP2C444LA0
+JP2C445LA0",2022-09-02 00:00:00,See Q1,See Q2,,,,"02R015591.A00
+02R015592.A00",2- EQs CML to JST_20220907132342_EQ for 350643-00 & 350644-00（JP2C444LA0 & JP2C445LA0)_RMI.xlsx,True,2025-01-01
+33,4,"About copper thickness,we con't fulfill the 70um for 35um base copper thickness.",2- EQs CML to JST_20220907132342_EQ for 350643-00 & 350644-00（JP2C444LA0 & JP2C445LA0)_RMI_image_5.png,"We have two suggestions:
+A:We suggest using base copper thickness 35um to do , finished copper thickness of the outer layer is 52.9um min
+
+B:Ignore base copper 35um,just control the final copper thickness 70um min
+
+Please choose A or B",2- EQs CML to JST_20220907132342_EQ for 350643-00 & 350644-00（JP2C444LA0 & JP2C445LA0)_RMI_image_5.png,,2- EQs CML to JST_20220907132342_EQ for 350643-00 & 350644-00（JP2C444LA0 & JP2C445LA0)_RMI_image_5.png,"STG MN: confirmed B
+Theben RMI: Follow B",2- EQs CML to JST_20220907132342_EQ for 350643-00 & 350644-00（JP2C444LA0 & JP2C445LA0)_RMI_image_5.png,Closed,"Theben, DE, Haigerloch","350643-00
+350644-00","JP2C444LA0
+JP2C445LA0",2022-09-02 00:00:00,See Q1,See Q2,,,,"02R015591.A00
+02R015592.A00",2- EQs CML to JST_20220907132342_EQ for 350643-00 & 350644-00（JP2C444LA0 & JP2C445LA0)_RMI.xlsx,True,2025-01-01
+34,5,"The notes in the drawing are not in English,we believe that this tolerance is the dimension tolerance without marking",2- EQs CML to JST_20220907132342_EQ for 350643-00 & 350644-00（JP2C444LA0 & JP2C445LA0)_RMI_image_6.png,Please confirm,2- EQs CML to JST_20220907132342_EQ for 350643-00 & 350644-00（JP2C444LA0 & JP2C445LA0)_RMI_image_6.png,,2- EQs CML to JST_20220907132342_EQ for 350643-00 & 350644-00（JP2C444LA0 & JP2C445LA0)_RMI_image_6.png,"STG MN: confirmed, dimenions without tolerance on drawing follow +/-0.15mm
+Theben RMI: confirmed",2- EQs CML to JST_20220907132342_EQ for 350643-00 & 350644-00（JP2C444LA0 & JP2C445LA0)_RMI_image_6.png,Closed,"Theben, DE, Haigerloch","350643-00
+350644-00","JP2C444LA0
+JP2C445LA0",2022-09-02 00:00:00,See Q1,See Q2,,,,"02R015591.A00
+02R015592.A00",2- EQs CML to JST_20220907132342_EQ for 350643-00 & 350644-00（JP2C444LA0 & JP2C445LA0)_RMI.xlsx,True,2025-01-01
+35,6,The unit board size is too small (47*22mm). It will bring the difficulty during the process,2- EQs CML to JST_20220907132342_EQ for 350643-00 & 350644-00（JP2C444LA0 & JP2C445LA0)_RMI_image_7.png,"We suggest make a panel to produce and ship the pcb with the panel,please kindly accept to deliver panel board(use connection bits to connect,the number, location, and size of the connection bits are up to us),see attachment panel drawing 
+Please confirm",2- EQs CML to JST_20220907132342_EQ for 350643-00 & 350644-00（JP2C444LA0 & JP2C445LA0)_RMI_image_7.png,,2- EQs CML to JST_20220907132342_EQ for 350643-00 & 350644-00（JP2C444LA0 & JP2C445LA0)_RMI_image_7.png,"STG MN: not confirmed, delivery has to be as single pcb
+Theben RMI: not confirmed. We need the PCBs as single PCBs.
+",2- EQs CML to JST_20220907132342_EQ for 350643-00 & 350644-00（JP2C444LA0 & JP2C445LA0)_RMI_image_7.png,Closed,"Theben, DE, Haigerloch","350643-00
+350644-00","JP2C444LA0
+JP2C445LA0",2022-09-02 00:00:00,See Q1,See Q2,,,,"02R015591.A00
+02R015592.A00",2- EQs CML to JST_20220907132342_EQ for 350643-00 & 350644-00（JP2C444LA0 & JP2C445LA0)_RMI.xlsx,True,2025-01-01
+36,7,The customer does not prepare a bad mark location.,,"We suggst the bad PCBs in a panel only marked X with a black marker on both sides
+Please confirm",,,,"STG MN: see Q7
+Theben RMI: confirmed",,Closed,"Theben, DE, Haigerloch","350643-00
+350644-00","JP2C444LA0
+JP2C445LA0",2022-09-02 00:00:00,See Q1,See Q2,,,,"02R015591.A00
+02R015592.A00",2- EQs CML to JST_20220907132342_EQ for 350643-00 & 350644-00（JP2C444LA0 & JP2C445LA0)_RMI.xlsx,True,2025-01-01
+37,1,The solder mask colour is different between the CML PO and cutomer PCB spec,2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_6.png,"We suggest to follow CML PO, use YeYo YSR-900 MBK01 black matt to do.
+
+Please confirm.",2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_6.png,,2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_6.png,"CML MN: confirmed
+Deltec KS: confirmed",2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_6.png,Closed,"Deltec, DE, Furth","35821922
+35821921","JB2C707TA0
+JB2C708TA0",2022-07-12 00:00:00," Dekai DK-C150,TG: 150 ºC,Anti-CAF",See Q1,,Kyle.Wang,,"02R012193.C00
+02R012192.C00",2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0).xlsx,True,2025-01-01
+38,2,"The pattern no. in the gerber are designed at the S/M top layer, it should be abnormal.",2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_4.png;2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_5.png;2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_7.png,"we suggest moving to the S/M bot layer.
+Please confirm.",2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_4.png;2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_5.png;2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_7.png,,2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_4.png;2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_5.png;2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_7.png,"CML MN: confirmed
+Deltec KS: confirmed",2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_4.png;2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_5.png;2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_7.png,Closed,"Deltec, DE, Furth","35821922
+35821921","JB2C707TA0
+JB2C708TA0",2022-07-12 00:00:00," Dekai DK-C150,TG: 150 ºC,Anti-CAF",See Q1,,Kyle.Wang,,"02R012193.C00
+02R012192.C00",2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0).xlsx,True,2025-01-01
+39,3,"About the UL marking,copper pad is added to the circuit layer of the original manuscript at the specified location.",2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_8.png,"We suggest delete copper pad and add UL mark.
+Please confirm.
+
+
+
+
+
+
+
+
+",2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_8.png,,2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_8.png,"CML MN: confirmed
+Deltec KS: confirmed",2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_8.png,Closed,"Deltec, DE, Furth","35821922
+35821921","JB2C707TA0
+JB2C708TA0",2022-07-12 00:00:00," Dekai DK-C150,TG: 150 ºC,Anti-CAF",See Q1,,Kyle.Wang,,"02R012193.C00
+02R012192.C00",2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0).xlsx,True,2025-01-01
+40,4,"The fiducials are designed outside the board, we suggest delete it.",2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_14.png;2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_15.png;2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_16.png,Please confirm.,2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_14.png;2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_15.png;2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_16.png,,2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_14.png;2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_15.png;2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_16.png,"CML MN: confirmed
+Deltec KS: confirmed",2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_14.png;2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_15.png;2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_16.png,Closed,"Deltec, DE, Furth","35821922
+35821921","JB2C707TA0
+JB2C708TA0",2022-07-12 00:00:00," Dekai DK-C150,TG: 150 ºC,Anti-CAF",See Q1,,Kyle.Wang,,"02R012193.C00
+02R012192.C00",2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0).xlsx,True,2025-01-01
+41,5,"SinglePCBdwg drawing is from previous version,and the location of the DMC area is different from gerber.",2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_12.png;2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_13.png,"We will ignore the DMC area in the single drawing and the DMC location follows gerber to do.
+Please confirm.",2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_12.png;2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_13.png,,2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_12.png;2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_13.png,"CML MN: confirmed
+Deltec KS: confirmed",2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_12.png;2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_13.png,Closed,"Deltec, DE, Furth","35821922
+35821921","JB2C707TA0
+JB2C708TA0",2022-07-12 00:00:00," Dekai DK-C150,TG: 150 ºC,Anti-CAF",See Q1,,Kyle.Wang,,"02R012193.C00
+02R012192.C00",2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0).xlsx,True,2025-01-01
+42,6,"The drawing requirements""mark only on bottom side"",but in gerber there are S/M opening on both sides.",2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_9.png;2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_10.png;2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_11.png,"We suggest delete top side S/M opening.
+Please confirm",2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_9.png;2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_10.png;2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_11.png,,2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_9.png;2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_10.png;2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_11.png,"CML MN: follow gerber
+DELTEC KS: follow gerber",2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_9.png;2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_10.png;2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_11.png,Closed,"Deltec, DE, Furth","35821922
+35821921","JB2C707TA0
+JB2C708TA0",2022-07-12 00:00:00," Dekai DK-C150,TG: 150 ºC,Anti-CAF",See Q1,,Kyle.Wang,,"02R012193.C00
+02R012192.C00",2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0).xlsx,True,2025-01-01
+43,7,"PN:35821922
+The tolerances require of finish hole are different ",2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_17.png;2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_18.png,We suggest to follow PanelDrilldwg file to do(below pictuer),2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_17.png;2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_18.png,,2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_17.png;2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_18.png,"CML MN: confirmed
+Deltec KS: confirmed",2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_17.png;2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_18.png,Closed,"Deltec, DE, Furth","35821922
+35821921","JB2C707TA0
+JB2C708TA0",2022-07-12 00:00:00," Dekai DK-C150,TG: 150 ºC,Anti-CAF",See Q1,,Kyle.Wang,,"02R012193.C00
+02R012192.C00",2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0).xlsx,True,2025-01-01
+44,8,PTH/NPTH slots has no length tolerance.,2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_19.png;2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_20.png;2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_21.png;2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_22.png,"We suggest the length tolerance follow +/-0.1mm
+please confirm.",2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_19.png;2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_20.png;2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_21.png;2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_22.png,,2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_19.png;2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_20.png;2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_21.png;2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_22.png,"CML MN: confirmed, follow DIN ISO 2768m for elngth tolerance
+DELTEC KS: confirmed",2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_19.png;2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_20.png;2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_21.png;2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_22.png,Closed,"Deltec, DE, Furth","35821922
+35821921","JB2C707TA0
+JB2C708TA0",2022-07-12 00:00:00," Dekai DK-C150,TG: 150 ºC,Anti-CAF",See Q1,,Kyle.Wang,,"02R012193.C00
+02R012192.C00",2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0).xlsx,True,2025-01-01
+45,9,"PN:35821921
+As the picture show,hole tolerances are different",2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_23.png,"We suggest making according to the hole chart in the panel drawing
+Please confirm",2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_23.png,,2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_23.png,DELTEC KS: confirmed,2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0)_image_23.png,Closed,"Deltec, DE, Furth","35821922
+35821921","JB2C707TA0
+JB2C708TA0",2022-07-12 00:00:00," Dekai DK-C150,TG: 150 ºC,Anti-CAF",See Q1,,Kyle.Wang,,"02R012193.C00
+02R012192.C00",2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0).xlsx,True,2025-01-01
+46,10,"PN:35821921
+As the picture show,there is a 0.5mm hole in the gerber,and there is no solder mask opening on the top",,"We suggest add solder mask opening same as other vias.
+Please confirm",,,,CML MN: confirmed,,Closed,"Deltec, DE, Furth","35821922
+35821921","JB2C707TA0
+JB2C708TA0",2022-07-12 00:00:00," Dekai DK-C150,TG: 150 ºC,Anti-CAF",See Q1,,Kyle.Wang,,"02R012193.C00
+02R012192.C00",2- EQs CML to JST_20220719092311_EQ for 35821922 & 35821921（JB2C707TA0 & JB2C708TA0).xlsx,True,2025-01-01
+47,1,"350643-00:For base material type
+
+
+
+
+
+
+
+
+
+
+
+350644-00:About base maerial,the requirements for Tg values are not the same",2- EQs CML to JST_20220907132155_EQ for 350643-00 & 350644-00（JP2C444LA0 & JP2C445LA0)_RMI_image_2.png,"350643-00:Suggest to use S1000-2M,TG: >170 ºC,CTI: PLC 3 (>=175 V) material.
+Please confirm
+
+
+
+
+
+
+
+
+
+350644-00:Suggest to use S1000H,TG: 150 ºC,CTI: PLC 3 (>=175 V) material.
+Please confirm",2- EQs CML to JST_20220907132155_EQ for 350643-00 & 350644-00（JP2C444LA0 & JP2C445LA0)_RMI_image_2.png,,2- EQs CML to JST_20220907132155_EQ for 350643-00 & 350644-00（JP2C444LA0 & JP2C445LA0)_RMI_image_2.png,"Theben RMI: confirmed to use S1000-2M for PCB 350643-00
+
+
+
+
+
+
+
+
+
+
+Theben RMI:confirmed to use S1000H for PCB 350644-00",2- EQs CML to JST_20220907132155_EQ for 350643-00 & 350644-00（JP2C444LA0 & JP2C445LA0)_RMI_image_2.png,Closed,"Theben, DE, Haigerloch","350643-00
+350644-00","JP2C444LA0
+JP2C445LA0",2022-09-02 00:00:00,See Q1,See Q2,,,,"02R015591.A00
+02R015592.A00",2- EQs CML to JST_20220907132155_EQ for 350643-00 & 350644-00（JP2C444LA0 & JP2C445LA0)_RMI.xlsx,True,2025-01-01
+48,2,customer don't indicate soldermask type.,,"Suggest to use YSR-900 G01 with glossy green.
+Please confirm",,,,"STG MN: confirmed
+Theben RMI: confirmed",,Closed,"Theben, DE, Haigerloch","350643-00
+350644-00","JP2C444LA0
+JP2C445LA0",2022-09-02 00:00:00,See Q1,See Q2,,,,"02R015591.A00
+02R015592.A00",2- EQs CML to JST_20220907132155_EQ for 350643-00 & 350644-00（JP2C444LA0 & JP2C445LA0)_RMI.xlsx,True,2025-01-01
+49,3,About UL,2- EQs CML to JST_20220907132155_EQ for 350643-00 & 350644-00（JP2C444LA0 & JP2C445LA0)_RMI_image_3.png;2- EQs CML to JST_20220907132155_EQ for 350643-00 & 350644-00（JP2C444LA0 & JP2C445LA0)_RMI_image_4.png,"We'll place our UL(ST-G 7JD 兄  94V-0 ) ,date code YYWW and  CTI>175 on top S/M layer(Since September 2nd, our company name has changed, so UL uses ST-G).
+Please confirm",2- EQs CML to JST_20220907132155_EQ for 350643-00 & 350644-00（JP2C444LA0 & JP2C445LA0)_RMI_image_3.png;2- EQs CML to JST_20220907132155_EQ for 350643-00 & 350644-00（JP2C444LA0 & JP2C445LA0)_RMI_image_4.png,,2- EQs CML to JST_20220907132155_EQ for 350643-00 & 350644-00（JP2C444LA0 & JP2C445LA0)_RMI_image_3.png;2- EQs CML to JST_20220907132155_EQ for 350643-00 & 350644-00（JP2C444LA0 & JP2C445LA0)_RMI_image_4.png,"STG MN: confirmed
+Theben RMI: confirmed",2- EQs CML to JST_20220907132155_EQ for 350643-00 & 350644-00（JP2C444LA0 & JP2C445LA0)_RMI_image_3.png;2- EQs CML to JST_20220907132155_EQ for 350643-00 & 350644-00（JP2C444LA0 & JP2C445LA0)_RMI_image_4.png,Closed,"Theben, DE, Haigerloch","350643-00
+350644-00","JP2C444LA0
+JP2C445LA0",2022-09-02 00:00:00,See Q1,See Q2,,,,"02R015591.A00
+02R015592.A00",2- EQs CML to JST_20220907132155_EQ for 350643-00 & 350644-00（JP2C444LA0 & JP2C445LA0)_RMI.xlsx,True,2025-01-01
+50,4,"About copper thickness,we con't fulfill the 70um for 35um base copper thickness.",2- EQs CML to JST_20220907132155_EQ for 350643-00 & 350644-00（JP2C444LA0 & JP2C445LA0)_RMI_image_5.png,"We have two suggestions:
+A:We suggest using base copper thickness 35um to do , finished copper thickness of the outer layer is 52.9um min
+
+B:Ignore base copper 35um,just control the final copper thickness 70um min
+
+Please choose A or B",2- EQs CML to JST_20220907132155_EQ for 350643-00 & 350644-00（JP2C444LA0 & JP2C445LA0)_RMI_image_5.png,,2- EQs CML to JST_20220907132155_EQ for 350643-00 & 350644-00（JP2C444LA0 & JP2C445LA0)_RMI_image_5.png,"STG MN: confirmed B
+Theben RMI: Follow B",2- EQs CML to JST_20220907132155_EQ for 350643-00 & 350644-00（JP2C444LA0 & JP2C445LA0)_RMI_image_5.png,Closed,"Theben, DE, Haigerloch","350643-00
+350644-00","JP2C444LA0
+JP2C445LA0",2022-09-02 00:00:00,See Q1,See Q2,,,,"02R015591.A00
+02R015592.A00",2- EQs CML to JST_20220907132155_EQ for 350643-00 & 350644-00（JP2C444LA0 & JP2C445LA0)_RMI.xlsx,True,2025-01-01
+51,5,"The notes in the drawing are not in English,we believe that this tolerance is the dimension tolerance without marking",2- EQs CML to JST_20220907132155_EQ for 350643-00 & 350644-00（JP2C444LA0 & JP2C445LA0)_RMI_image_6.png,Please confirm,2- EQs CML to JST_20220907132155_EQ for 350643-00 & 350644-00（JP2C444LA0 & JP2C445LA0)_RMI_image_6.png,,2- EQs CML to JST_20220907132155_EQ for 350643-00 & 350644-00（JP2C444LA0 & JP2C445LA0)_RMI_image_6.png,"STG MN: confirmed, dimenions without tolerance on drawing follow +/-0.15mm
+Theben RMI: confirmed",2- EQs CML to JST_20220907132155_EQ for 350643-00 & 350644-00（JP2C444LA0 & JP2C445LA0)_RMI_image_6.png,Closed,"Theben, DE, Haigerloch","350643-00
+350644-00","JP2C444LA0
+JP2C445LA0",2022-09-02 00:00:00,See Q1,See Q2,,,,"02R015591.A00
+02R015592.A00",2- EQs CML to JST_20220907132155_EQ for 350643-00 & 350644-00（JP2C444LA0 & JP2C445LA0)_RMI.xlsx,True,2025-01-01
+52,6,The unit board size is too small (47*22mm). It will bring the difficulty during the process,2- EQs CML to JST_20220907132155_EQ for 350643-00 & 350644-00（JP2C444LA0 & JP2C445LA0)_RMI_image_7.png,"We suggest make a panel to produce and ship the pcb with the panel,please kindly accept to deliver panel board(use connection bits to connect,the number, location, and size of the connection bits are up to us),see attachment panel drawing 
+Please confirm",2- EQs CML to JST_20220907132155_EQ for 350643-00 & 350644-00（JP2C444LA0 & JP2C445LA0)_RMI_image_7.png,,2- EQs CML to JST_20220907132155_EQ for 350643-00 & 350644-00（JP2C444LA0 & JP2C445LA0)_RMI_image_7.png,"STG MN: not confirmed, delivery has to be as single pcb
+Theben RMI: not confirmed. We need the PCBs as single PCBs.
+",2- EQs CML to JST_20220907132155_EQ for 350643-00 & 350644-00（JP2C444LA0 & JP2C445LA0)_RMI_image_7.png,Closed,"Theben, DE, Haigerloch","350643-00
+350644-00","JP2C444LA0
+JP2C445LA0",2022-09-02 00:00:00,See Q1,See Q2,,,,"02R015591.A00
+02R015592.A00",2- EQs CML to JST_20220907132155_EQ for 350643-00 & 350644-00（JP2C444LA0 & JP2C445LA0)_RMI.xlsx,True,2025-01-01
+53,7,The customer does not prepare a bad mark location.,,"We suggst the bad PCBs in a panel only marked X with a black marker on both sides
+Please confirm",,,,"STG MN: see Q7
+Theben RMI: confirmed",,Closed,"Theben, DE, Haigerloch","350643-00
+350644-00","JP2C444LA0
+JP2C445LA0",2022-09-02 00:00:00,See Q1,See Q2,,,,"02R015591.A00
+02R015592.A00",2- EQs CML to JST_20220907132155_EQ for 350643-00 & 350644-00（JP2C444LA0 & JP2C445LA0)_RMI.xlsx,True,2025-01-01
+54,3,"The solder mask thickness is hard to control during the production
+
+
+
+
+
+
+
+
+
+In general specification <PCB_Technical_Supplier_Instructions_10000064018-11> 4.4.3defined the solde mask on dielectric surface 10-50μm is strick for our capability  ",2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_9.png;2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_10.png,"We suggest to control as below：
+conductor edge：5um min
+conductor:10-50um
+dielectric surface:10um min, and not exceed the finished copper thickness
+Please confirm",2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_9.png;2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_10.png,,2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_9.png;2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_10.png,Confirmed,2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_9.png;2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_10.png,Closed,"Melecs, HU, Györ",10000101982-00 CMN: 10908347,J0600095A00.0,2025-01-11 00:00:00,See Q1,See Q2,Factory Suggestion/Proposal,Yang.zhao,306 mm x 239 mm = 4-up panel,06R008973.A00,2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）.xlsx,True,2025-01-01
+55,4,"There are solder mask opening  as big as via holes
+
+Please noted that we didn't show you all the places, we just catch part of the image to show this question",2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_14.png;2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_24.png,"please choose A or B:
+A:Suggest add the solder mask opening bigger than holes and smaller than pads
+
+B:We will delete the both side of the solder mask opening,and plug these via holes with solder mask(Keep the solder mask opening on the large pad)",2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_14.png;2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_24.png,,2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_14.png;2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_24.png,Please use A,2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_14.png;2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_24.png,Closed,"Melecs, HU, Györ",10000101982-00 CMN: 10908347,J0600095A00.0,2025-01-11 00:00:00,See Q1,See Q2,Factory Suggestion/Proposal,Yang.zhao,306 mm x 239 mm = 4-up panel,06R008973.A00,2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）.xlsx,True,2025-01-01
+56,5,"As below picture shows, We don't know if this position is added to our automark or the customer",2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_11.png,"suggest add our automark at position 13)
+Please confirm",2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_11.png,,2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_11.png,Melecs: confirmed,2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_11.png,Closed,"Melecs, HU, Györ",10000101982-00 CMN: 10908347,J0600095A00.0,2025-01-11 00:00:00,See Q1,See Q2,Factory Suggestion/Proposal,Yang.zhao,306 mm x 239 mm = 4-up panel,06R008973.A00,2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）.xlsx,True,2025-01-01
+57,6,"As below picture shows, the requirement of serial number 8) is differen from customer PN:10000101982-00 CMN: 10908347",2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_18.png,"Please choose A or B
+A:add customer PN 10000101982-00 CMN: 10908347 to replace  
+B:add customer PN 10000101982-00 to replace",2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_18.png,,2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_18.png,Melecs: option B confirmed,2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_18.png,Closed,"Melecs, HU, Györ",10000101982-00 CMN: 10908347,J0600095A00.0,2025-01-11 00:00:00,See Q1,See Q2,Factory Suggestion/Proposal,Yang.zhao,306 mm x 239 mm = 4-up panel,06R008973.A00,2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）.xlsx,True,2025-01-01
+58,7,"As below picture shows, The customer number in gerber is different from that in PO.",2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_12.png;2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_25.png,"In order to avoid misunderstanding.we will ignore the difference ,and just follow Gerber to do
+Please confirm",2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_12.png;2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_25.png,,2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_12.png;2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_25.png,"Melecs: please follow the gerber data, it is our customer material number.
+10000101982-00 is only Melecs internal PCB material number.",2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_12.png;2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_25.png,Closed,"Melecs, HU, Györ",10000101982-00 CMN: 10908347,J0600095A00.0,2025-01-11 00:00:00,See Q1,See Q2,Factory Suggestion/Proposal,Yang.zhao,306 mm x 239 mm = 4-up panel,06R008973.A00,2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）.xlsx,True,2025-01-01
+59,8,The tolerance for the PTH are strict for us,2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_13.png,"Suggest relax the PTH tolerance as +/-0.075mm
+please confirm.",2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_13.png,"STG DE MaG: not confirmed, it is chemical surface, should be possible",2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_13.png,Confirmed,2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_13.png,Closed,"Melecs, HU, Györ",10000101982-00 CMN: 10908347,J0600095A00.0,2025-01-11 00:00:00,See Q1,See Q2,Factory Suggestion/Proposal,Yang.zhao,306 mm x 239 mm = 4-up panel,06R008973.A00,2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）.xlsx,True,2025-01-01
+60,9,"As below picture shows,The tolerance for the fiducial mark to fiducial mark  are strict for us",2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_26.png;2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_27.png,"Suggest relax the tolerance as +/-0.1mm
+please confirm.",2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_26.png;2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_27.png,,2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_26.png;2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_27.png,Melecs: fiducial marks are the base of acciracy of component placement and measurement. Please keep the original tolerances. ,2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_26.png;2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_27.png,Closed,"Melecs, HU, Györ",10000101982-00 CMN: 10908347,J0600095A00.0,2025-01-11 00:00:00,See Q1,See Q2,Factory Suggestion/Proposal,Yang.zhao,306 mm x 239 mm = 4-up panel,06R008973.A00,2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）.xlsx,True,2025-01-01
+61,10,"As below picture shows,The 1.0mm, 1.02mm and 1.2mm holes are only round holes in gerber ",2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_15.png,"we will follow gerber to do
+please confirm.",2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_15.png,STG DE MaG: confirmed,2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_15.png,Confirmed,2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_15.png,Closed,"Melecs, HU, Györ",10000101982-00 CMN: 10908347,J0600095A00.0,2025-01-11 00:00:00,See Q1,See Q2,Factory Suggestion/Proposal,Yang.zhao,306 mm x 239 mm = 4-up panel,06R008973.A00,2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）.xlsx,True,2025-01-01
+62,11,"As below picture shows,In the general specification ""<PCB_Technical_Supplier_Instructions_10000064018-12>"", no tolerances are defined for the PTH slots that need to be drilled",2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_16.png;2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_17.png;2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_28.png,"We suggest that all PTH slot width and slot length tolerances follow +/-0.1mm
+please confirm.",2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_16.png;2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_17.png;2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_28.png,STG DE MaG: confirmed,2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_16.png;2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_17.png;2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_28.png,Confirmed,2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_16.png;2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_17.png;2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_28.png,Closed,"Melecs, HU, Györ",10000101982-00 CMN: 10908347,J0600095A00.0,2025-01-11 00:00:00,See Q1,See Q2,Factory Suggestion/Proposal,Yang.zhao,306 mm x 239 mm = 4-up panel,06R008973.A00,2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）.xlsx,True,2025-01-01
+63,12,"As below picture shows,the single PCB outline and slot in gerber are different from single PCB outline and slot in DXF
+
+Please noted that we didn't show you all the places, we just catch part of the image to show this question",2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_19.png;2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_20.png,"We suggest the single PCB outline and slot follow the gerber to do.
+In addition,the connection bits we will follow DXF
+Please confirm",2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_19.png;2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_20.png,,2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_19.png;2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_20.png,Melecs: confirm your suggestion.,2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_19.png;2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_20.png,Closed,"Melecs, HU, Györ",10000101982-00 CMN: 10908347,J0600095A00.0,2025-01-11 00:00:00,See Q1,See Q2,Factory Suggestion/Proposal,Yang.zhao,306 mm x 239 mm = 4-up panel,06R008973.A00,2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）.xlsx,True,2025-01-01
+64,13,"As below picture shown,The hole sizes in the ""drill table"" are not the same as those in the 'roundhole.txt' layer",2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_21.png;2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_22.png;2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_29.png,"we suggest hole size follow gerber to do
+Please confirm",2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_21.png;2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_22.png;2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_29.png,STG DE MaG: confirmed,2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_21.png;2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_22.png;2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_29.png,Confirmed,2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_21.png;2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_22.png;2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_29.png,Closed,"Melecs, HU, Györ",10000101982-00 CMN: 10908347,J0600095A00.0,2025-01-11 00:00:00,See Q1,See Q2,Factory Suggestion/Proposal,Yang.zhao,306 mm x 239 mm = 4-up panel,06R008973.A00,2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）.xlsx,True,2025-01-01
+65,14,"As below picture shown,In the additional requirements and file package there is ""GBP:Bottom PASTE MASK"", but in Gerber there is only the ""GTP"" layer",2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_30.png,"we suggest follow gerber to do
+Please confirm",2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_30.png,,2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_30.png,Confirmed no Bottom Paste,2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_30.png,Closed,"Melecs, HU, Györ",10000101982-00 CMN: 10908347,J0600095A00.0,2025-01-11 00:00:00,See Q1,See Q2,Factory Suggestion/Proposal,Yang.zhao,306 mm x 239 mm = 4-up panel,06R008973.A00,2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）.xlsx,True,2025-01-01
+66,15,"As below picture shown,There is a V-CUT requirement in the single drawing, but there is no V-CUT in the panel drawing",2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_31.png,"we suggest ignore V-CUT requirement and will follow panel drawing
+Please confirm",2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_31.png,STG DE MaG: confirmed,2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_31.png,Melecs: confirmed,2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_31.png,Closed,"Melecs, HU, Györ",10000101982-00 CMN: 10908347,J0600095A00.0,2025-01-11 00:00:00,See Q1,See Q2,Factory Suggestion/Proposal,Yang.zhao,306 mm x 239 mm = 4-up panel,06R008973.A00,2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）.xlsx,True,2025-01-01
+67,16,"As below picture shown,The requirements of the 9) point are different from the actual Gerber design",2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_32.png,"please choose A or B:
+A:we will ignore the 9) point
+
+B:Please provide the location requested in the 9) point again",2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_32.png,,2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_32.png,Melecs: we will move the Melecs DMC code from this area to TOP copper free area. Option A confirmed.,2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）_image_32.png,Closed,"Melecs, HU, Györ",10000101982-00 CMN: 10908347,J0600095A00.0,2025-01-11 00:00:00,See Q1,See Q2,Factory Suggestion/Proposal,Yang.zhao,306 mm x 239 mm = 4-up panel,06R008973.A00,2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）.xlsx,True,2025-01-01
+68,17,"Some isolate pads have been designed in inner layer, which will be peeled off easily in production process, and will cause circuitry to short.
+
+Please noted that we didn't show you all the places, we just catch part of the image to show this question",,"We suggest delete all isolated non-function pad in inner layers
+Please confirm.",,,,"Only delete  isolated non-function pad in inner layers for hole size 0,3mm or smaller.
+
+For which hole size/ outer ring dimensions are isolated non-function pad in inner layers acceptable for you?",,Closed,"Melecs, HU, Györ",10000101982-00 CMN: 10908347,J0600095A00.0,2025-01-11 00:00:00,See Q1,See Q2,Factory Suggestion/Proposal,Yang.zhao,306 mm x 239 mm = 4-up panel,06R008973.A00,2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）.xlsx,True,2025-01-01
+69,18,"As below picture shown,The spacing between the pads and the network is too small, we can not make the spacing between the pads and the solder mask dam
+
+Please noted that we didn't show you all the places, we just catch part of the image to show this question",,"We suggest that the small pads with the network will be connected, and do not do solder mask dam
+Please confirm.",,,,Please send updated gerber so we can check this,,Closed,"Melecs, HU, Györ",10000101982-00 CMN: 10908347,J0600095A00.0,2025-01-11 00:00:00,See Q1,See Q2,Factory Suggestion/Proposal,Yang.zhao,306 mm x 239 mm = 4-up panel,06R008973.A00,2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）.xlsx,True,2025-01-01
+70,19,"As below picture shown,The spacing between SMD pads are too small , In addition, the solder mask ink is matte green,we can’t build the solder mask dam between them due to the small spacing, we need make copper compensation 0.08mm overall,and we need make minimum 0.1mm soldermask dam for green matte SM to ensure the dam will not peel off, and plus minimum 0.025mm soldermask opening single side, so we need at last 0.23mm gap between the pads in orignial gerber
+
+
+Please noted that we didn't show you all the places, we just catch part of the image to show this question",,"please choose A or B:
+A:To make the soldermask dam, we suggest shave the SMD pads to make at least 0.23mm gap between them
+
+B:The gap between the smd pads was < 0.23mm,we will not do soldermask dam.",,,,Please use option B,,Closed,"Melecs, HU, Györ",10000101982-00 CMN: 10908347,J0600095A00.0,2025-01-11 00:00:00,See Q1,See Q2,Factory Suggestion/Proposal,Yang.zhao,306 mm x 239 mm = 4-up panel,06R008973.A00,2- aw EQ DE to JST_20250123114458_aw EQ for 10000101982-00 CMN 10908347（J0600095A00.0）.xlsx,True,2025-01-01
+71,3,We did not receive the mechanical PCB drawing in the data package.,,"Please help to providde it to us, or confirm we can use the previous drawing to build.",,use the previous one. attatched in mail you can find the drawing as well for double check.,,,,Closed,"Eberspaecher, DE, Landau
+(Eberspächer Controls Landau GmbH& Co.KG)",95211 PAG BMS12V_V04.01.02,JB6C051TB0,=NOW(),SY S1000-2M,Yeyo YSR-900 G01/Glossy green,Suggestion/Proposal,Le Yang,264*158,06R005908.D00,2- aw EQ De to JST_20231205101110_aw EQ for 95211 PAG BMS12V_V04.01.02 (JB6C051TB0).xlsx,True,2025-01-01
+72,4,"As below picture shown, we found the revision of customer part number is different between spec file/gerber and ECN document (the 3rd picture).",,"Kindly help to double check and confirm which is correct, and we can ignore the difference and just follow gerber to build.",,follow Gerber build.,,,,Closed,"Eberspaecher, DE, Landau
+(Eberspächer Controls Landau GmbH& Co.KG)",95211 PAG BMS12V_V04.01.02,JB6C051TB0,=NOW(),SY S1000-2M,Yeyo YSR-900 G01/Glossy green,Suggestion/Proposal,Le Yang,264*158,06R005908.D00,2- aw EQ De to JST_20231205101110_aw EQ for 95211 PAG BMS12V_V04.01.02 (JB6C051TB0).xlsx,True,2025-01-01
+73,5,"Due to the outer base copper changed from 1oz(35um) to 0.5oz(17.5um), we need to adjust the stack-up to meet the final board thickness.",,Please check our proposed stack-up and help to confirm.,,confirm,,,,Closed,"Eberspaecher, DE, Landau
+(Eberspächer Controls Landau GmbH& Co.KG)",95211 PAG BMS12V_V04.01.02,JB6C051TB0,=NOW(),SY S1000-2M,Yeyo YSR-900 G01/Glossy green,Suggestion/Proposal,Le Yang,264*158,06R005908.D00,2- aw EQ De to JST_20231205101110_aw EQ for 95211 PAG BMS12V_V04.01.02 (JB6C051TB0).xlsx,True,2025-01-01
+74,6,There are some questions same as previous version.,,"In order to save EQ time, we propose to follow previous version's EQ to deal with this new revision. Please confirm.",,confirm,,,,Closed,"Eberspaecher, DE, Landau
+(Eberspächer Controls Landau GmbH& Co.KG)",95211 PAG BMS12V_V04.01.02,JB6C051TB0,=NOW(),SY S1000-2M,Yeyo YSR-900 G01/Glossy green,Suggestion/Proposal,Le Yang,264*158,06R005908.D00,2- aw EQ De to JST_20231205101110_aw EQ for 95211 PAG BMS12V_V04.01.02 (JB6C051TB0).xlsx,True,2025-01-01
+75,4,About marking ,2- EQs DE to JST_20221102095903_EQ_2531.394.303.04.02_(JA4C216TD0)_STARTEAM_image_14.png;2- EQs DE to JST_20221102095903_EQ_2531.394.303.04.02_(JA4C216TD0)_STARTEAM_image_15.png,"We suggest adding our UL(ST-G 7JM 兄 94V-0 E330796) and date code(YYWW) according to the previous version location.
+Please confirm.",2- EQs DE to JST_20221102095903_EQ_2531.394.303.04.02_(JA4C216TD0)_STARTEAM_image_14.png;2- EQs DE to JST_20221102095903_EQ_2531.394.303.04.02_(JA4C216TD0)_STARTEAM_image_15.png,"STG MN: confirmed
+BH SENS: we confirm",2- EQs DE to JST_20221102095903_EQ_2531.394.303.04.02_(JA4C216TD0)_STARTEAM_image_14.png;2- EQs DE to JST_20221102095903_EQ_2531.394.303.04.02_(JA4C216TD0)_STARTEAM_image_15.png,,2- EQs DE to JST_20221102095903_EQ_2531.394.303.04.02_(JA4C216TD0)_STARTEAM_image_14.png;2- EQs DE to JST_20221102095903_EQ_2531.394.303.04.02_(JA4C216TD0)_STARTEAM_image_15.png,Closed,"Huf, DE, Bretten",2531.394.303.04.02,JA4C216TD0,2022-10-26 00:00:00,"FR4  DK-C150  TG: 150, CTI>=175 ",YSR-900 GM with matt green,"We suggest using FR4 DK-C150 TG: 150, CTI>=175 by STG PO.",Kyle.wang,,04R008984.D00,2- EQs DE to JST_20221102095903_EQ_2531.394.303.04.02_(JA4C216TD0)_STARTEAM.xlsx,True,2025-01-01
+76,5,The dimensions don't indicate the tolerances.,2- EQs DE to JST_20221102095903_EQ_2531.394.303.04.02_(JA4C216TD0)_STARTEAM_image_16.png,"We suggest following +/-0.1mm.
+Please confirm.",2- EQs DE to JST_20221102095903_EQ_2531.394.303.04.02_(JA4C216TD0)_STARTEAM_image_16.png,"STG MN: confirmed, same as before
+BH SENS: we confirm",2- EQs DE to JST_20221102095903_EQ_2531.394.303.04.02_(JA4C216TD0)_STARTEAM_image_16.png,,2- EQs DE to JST_20221102095903_EQ_2531.394.303.04.02_(JA4C216TD0)_STARTEAM_image_16.png,Closed,"Huf, DE, Bretten",2531.394.303.04.02,JA4C216TD0,2022-10-26 00:00:00,"FR4  DK-C150  TG: 150, CTI>=175 ",YSR-900 GM with matt green,"We suggest using FR4 DK-C150 TG: 150, CTI>=175 by STG PO.",Kyle.wang,,04R008984.D00,2- EQs DE to JST_20221102095903_EQ_2531.394.303.04.02_(JA4C216TD0)_STARTEAM.xlsx,True,2025-01-01
+77,6,The area sizes of the free copper in the drawing is not the same as the gerber file.,,"We suggest following the requirements of the drawing and all layers free of copper in this areas according to previous versions.
+Please confirm.",,BH SENS: we confirm,,,,Closed,"Huf, DE, Bretten",2531.394.303.04.02,JA4C216TD0,2022-10-26 00:00:00,"FR4  DK-C150  TG: 150, CTI>=175 ",YSR-900 GM with matt green,"We suggest using FR4 DK-C150 TG: 150, CTI>=175 by STG PO.",Kyle.wang,,04R008984.D00,2- EQs DE to JST_20221102095903_EQ_2531.394.303.04.02_(JA4C216TD0)_STARTEAM.xlsx,True,2025-01-01
+78,7,We will replace XX to 02 according to STG PO.,,Please confirm.,,"STG MN: confirmed
+BH SENS: confirmed",,,,Closed,"Huf, DE, Bretten",2531.394.303.04.02,JA4C216TD0,2022-10-26 00:00:00,"FR4  DK-C150  TG: 150, CTI>=175 ",YSR-900 GM with matt green,"We suggest using FR4 DK-C150 TG: 150, CTI>=175 by STG PO.",Kyle.wang,,04R008984.D00,2- EQs DE to JST_20221102095903_EQ_2531.394.303.04.02_(JA4C216TD0)_STARTEAM.xlsx,True,2025-01-01
+79,8,"The number is positive in the bottom layer, it is abnormal.",,"We suggest mirroring it (as shown below).
+Please confirm.",,BH SENS: follow gerber data,,,,Closed,"Huf, DE, Bretten",2531.394.303.04.02,JA4C216TD0,2022-10-26 00:00:00,"FR4  DK-C150  TG: 150, CTI>=175 ",YSR-900 GM with matt green,"We suggest using FR4 DK-C150 TG: 150, CTI>=175 by STG PO.",Kyle.wang,,04R008984.D00,2- EQs DE to JST_20221102095903_EQ_2531.394.303.04.02_(JA4C216TD0)_STARTEAM.xlsx,True,2025-01-01
+80,9,The PPAP requirements follow to previous versions.,,Please confirm.,,"STG MN: see attached documents which we received now. There are different documents to fill in.
+",,,,Closed,"Huf, DE, Bretten",2531.394.303.04.02,JA4C216TD0,2022-10-26 00:00:00,"FR4  DK-C150  TG: 150, CTI>=175 ",YSR-900 GM with matt green,"We suggest using FR4 DK-C150 TG: 150, CTI>=175 by STG PO.",Kyle.wang,,04R008984.D00,2- EQs DE to JST_20221102095903_EQ_2531.394.303.04.02_(JA4C216TD0)_STARTEAM.xlsx,True,2025-01-01
+81,10,"Unless above questions, all other questions follow to previous versions.",,Please confirm.,,"STG MN: confirmed
+BH SENS: confirmed",,,,Closed,"Huf, DE, Bretten",2531.394.303.04.02,JA4C216TD0,2022-10-26 00:00:00,"FR4  DK-C150  TG: 150, CTI>=175 ",YSR-900 GM with matt green,"We suggest using FR4 DK-C150 TG: 150, CTI>=175 by STG PO.",Kyle.wang,,04R008984.D00,2- EQs DE to JST_20221102095903_EQ_2531.394.303.04.02_(JA4C216TD0)_STARTEAM.xlsx,True,2025-01-01
+82,3,"To prevent the soldermask ink from peeling in the bendable area, we propose to change the solid copper in bendable area of bottom side to mesh copper like below picture shown.",,"Refer to below picture and WG, please help to check and confirm.",,STG DE MaG: confirmed,,,,Closed,"Metz Connect Tech, DE, Blumberg",833451A,J0400100A01.0,2024-07-25 00:00:00,S1141,"PROBIMER 77/7179/Matte Green
+Taiyo PSR-9000 FLX501/Green",Factory Suggestion/Proposal,Le Yang,250.40mm*145.00mm,04R016271.B01,2- EQs _ WG approval DE to JST_20240731110517_aw EQ for 833451A(J0400100A01.0).xlsx,True,2025-01-01
+83,4,"In order to save the EQ time, we suggest following previous EQ confirmation to deal with the same questions.",,Please refer to attached EQ and help to confirm.,,STG DE MaG: confirmed,,,,Closed,"Metz Connect Tech, DE, Blumberg",833451A,J0400100A01.0,2024-07-25 00:00:00,S1141,"PROBIMER 77/7179/Matte Green
+Taiyo PSR-9000 FLX501/Green",Factory Suggestion/Proposal,Le Yang,250.40mm*145.00mm,04R016271.B01,2- EQs _ WG approval DE to JST_20240731110517_aw EQ for 833451A(J0400100A01.0).xlsx,True,2025-01-01

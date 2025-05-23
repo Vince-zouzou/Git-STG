@@ -1,0 +1,187 @@
+/* styles.css - 全局 CSS 样式，统一所有页面的视觉风格 */
+
+/* 定义主题变量 */
+:root {
+    --primary-color: #4285f4; /* 主色调 */
+    --secondary-color: #357ae8; /* 按钮悬浮色 */
+    --border-color: #d1d5db; /* 边框颜色 */
+    --shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* 阴影 */
+    --text-color: #1f2937; /* 主要文本色 */
+    --secondary-text: #6b7280; /* 次要文本色 */
+    --background: #f0f2f6; /* 页面背景 */
+    --card-bg: white; /* 卡片背景 */
+}
+
+/* 全局应用样式 */
+.stApp {
+    background-color: var(--background);
+    font-family: 'Arial', sans-serif;
+}
+
+/* 按钮样式 */
+.stButton>button {
+    background-color: var(--primary-color);
+    color: white;
+    border-radius: 4px;
+    padding: 8px 16px;
+    transition: all 0.3s ease;
+    width: 100%;
+    height: 40px;
+    border: 1px solid var(--border-color);
+}
+.stButton>button:hover {
+    background-color: var(--secondary-color);
+    box-shadow: var(--shadow);
+}
+
+/* 输入框样式 */
+.stTextInput input, .stDateInput input, .stTextArea textarea {
+    border: 1px solid var(--border-color);
+    border-radius: 4px;
+    padding: 5px;
+}
+
+/* 下拉框样式 */
+div[data-baseweb="select"] > div {
+    border: 1px solid var(--border-color) !important;
+    border-radius: 4px !important;
+    padding: 5px !important;
+    height: 40px !important;
+    display: flex !important;
+    align-items: center !important;
+}
+
+/* 卡片样式（用于 main.py, faq.py） */
+.card, .faq-card {
+    background: var(--card-bg);
+    padding: 16px;
+    border-radius: 8px;
+    box-shadow: var(--shadow);
+    border: 1px solid var(--border-color);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    cursor: pointer;
+}
+.card:hover, .faq-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+}
+
+/* Expander 样式（main.py） */
+div[data-testid="stExpander"] > div {
+    background: var(--card-bg);
+    padding: 12px 16px;
+    border-radius: 8px;
+    margin-bottom: 8px;
+    box-shadow: var(--shadow);
+    border: 1px solid var(--border-color);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+div[data-testid="stExpander"] > div:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+    background-color: #f9fafb;
+}
+div[data-testid="stExpanderDetails"] {
+    margin-top: 8px;
+    padding: 8px;
+    background-color: #f3f4f6;
+    border-radius: 4px;
+    color: var(--secondary-text);
+    font-size: 14px;
+    border: 1px solid var(--border-color);
+}
+
+/* 卡片内部布局（main.py） */
+.list-item-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.list-item-content p {
+    margin: 0;
+    color: var(--secondary-text);
+    font-size: 14px;
+}
+.list-item-content .client {
+    font-weight: 500;
+    color: var(--text-color);
+}
+.list-item-content .due-date {
+    color: #9ca3af;
+    font-size: 12px;
+}
+
+/* FAQ 特定样式（faq.py） */
+.customer-list {
+    list-style-type: none;
+    padding: 0;
+    max-height: 300px;
+    overflow-y: auto;
+}
+.similarity {
+    color: var(--secondary-text);
+    font-size: 0.75rem;
+}
+.question {
+    font-weight: 600;
+    font-size: 1rem;
+    color: var(--text-color);
+}
+.details {
+    color: var(--secondary-text);
+    font-size: 0.75rem;
+}
+.view-details {
+    color: #9ca3af;
+    font-size: 0.75rem;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+/* Translator 特定样式（translator.py） */
+.stTabs {
+    background-color: #e8eaed;
+    border-radius: 5px;
+    padding: 10px;
+}
+.stTabs>div>div {
+    background-color: var(--card-bg);
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: var(--shadow);
+}
+.swap-button {
+    font-size: 24px;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+.swap-button:hover {
+    transform: rotate(180deg);
+}
+
+/* 表格样式（manage_eq.py, search.py） */
+.stDataFrame {
+    border: 1px solid var(--border-color);
+    border-radius: 4px;
+}
+
+/* Checkbox 样式 */
+.stCheckbox {
+    margin-top: 10px;
+
+
+}
+
+.error-box {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #f8d7da;
+    color: #721c24;
+    border: 1px solid #f5c6cb;
+    border-radius: 5px;
+    padding: 10px;
+    max-width: 300px;
+    z-index: 1000;
+    font-size: 14px;
+}
