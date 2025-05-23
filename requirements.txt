@@ -5,4 +5,4 @@ langchain_huggingface
 faiss-cpu
 plotly
 openai
-docx
+python-docx>=0.8.11
