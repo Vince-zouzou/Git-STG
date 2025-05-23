@@ -1,5 +1,6 @@
 # config.py
 # 页面配置
+from pathlib import Path
 
 api = {"key":
 "f7bd69fb1e124bb79560a0e726fb4631",
@@ -895,10 +896,19 @@ TRANSLATOR_CONFIG = {
 }
 
 
-source_path = {'database':'./Data/Dataset.csv',
-                'images':'./Data/Images/',
-                'model':'./Data/Model/',
-                'EQ excel':'./Data/EQ Excel/',
+current_file = Path(__file__).resolve()
+project_root = current_file.parent
+
+# 构建图片目录路径
+image_dir = project_root / "Data" / "Images"
+database_dir = project_root / "Data" / "Dataset.csv"
+model_dir = project_root / "Data" / "Model"
+EQ_excel_dir = project_root / "Data" / "EQ Excel"
+
+source_path = {'database':database_dir,
+                'images':image_dir,
+                'model':model_dir,
+                'EQ excel':EQ_excel_dir,
                 'embedding': 'sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2',
                 'search': {
                             'default_k': 20,
