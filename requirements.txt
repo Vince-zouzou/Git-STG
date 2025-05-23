@@ -3,3 +3,4 @@ openpyxl
 langchain_community
 langchain_huggingface
 faiss-cpu
+plotly
