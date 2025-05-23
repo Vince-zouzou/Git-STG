@@ -134,22 +134,6 @@ with tab3:
             except Exception as e:
                 st.error(f"{MESSAGES[current_language]['translationFailed']}: {str(e)}")
 
-# Web translation
-with tab4:
-    url = st.text_input(
-        MESSAGES[current_language]["inputUrl"],
-        placeholder="https://example.com"
-    )
-    if url and st.button(MESSAGES[current_language]["translateWeb"]):
-        with st.container():
-            text = f"Mock web content: {url}"
-            with st.spinner(MESSAGES[current_language]["translating"]):
-                result = mock_translate(text, source_lang, target_lang)
-                st.text_area(
-                    MESSAGES[current_language]["translationResult"],
-                    value=result.translated_text,
-                    height=300
-                )
 
 # Usage instructions
 st.markdown(MESSAGES[current_language]["usageInstructions"], unsafe_allow_html=True)
