@@ -3,18 +3,15 @@
 /* 定义主题变量 */
 :root {
     --primary-color: #4285f4; /* 主色调 */
-    --secondary-color: #357ae8; /* 按钮悬浮色 */
-    --border-color: #d1d5db; /* 边框颜色 */
+    --secondary-color: #357ae8; /* 按钮悬浮色 */    
     --shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* 阴影 */
     --text-color: #1f2937; /* 主要文本色 */
     --secondary-text: #6b7280; /* 次要文本色 */
-    --background: #f0f2f6; /* 页面背景 */
     --card-bg: white; /* 卡片背景 */
 }
 
 /* 全局应用样式 */
 .stApp {
-    background-color: var(--background);
     font-family: 'Arial', sans-serif;
 }
 
@@ -63,7 +60,7 @@ div[data-baseweb="select"] > div {
 }
 .card:hover, .faq-card:hover {
     transform: translateY(-2px);
-    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+
 }
 
 /* Expander 样式（main.py） */
@@ -78,13 +75,11 @@ div[data-testid="stExpander"] > div {
 }
 div[data-testid="stExpander"] > div:hover {
     transform: translateY(-2px);
-    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
-    background-color: #f9fafb;
+
 }
 div[data-testid="stExpanderDetails"] {
     margin-top: 8px;
     padding: 8px;
-    background-color: #f3f4f6;
     border-radius: 4px;
     color: var(--secondary-text);
     font-size: 14px;
@@ -107,7 +102,6 @@ div[data-testid="stExpanderDetails"] {
     color: var(--text-color);
 }
 .list-item-content .due-date {
-    color: #9ca3af;
     font-size: 12px;
 }
 
@@ -132,7 +126,6 @@ div[data-testid="stExpanderDetails"] {
     font-size: 0.75rem;
 }
 .view-details {
-    color: #9ca3af;
     font-size: 0.75rem;
     text-decoration: underline;
     cursor: pointer;
@@ -140,7 +133,6 @@ div[data-testid="stExpanderDetails"] {
 
 /* Translator 特定样式（translator.py） */
 .stTabs {
-    background-color: #e8eaed;
     border-radius: 5px;
     padding: 10px;
 }
