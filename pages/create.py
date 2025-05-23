@@ -131,7 +131,7 @@ def render_question_form(info, index):
         for img in current_images:
             if img:
                 #st.write(img)
-                img = sourcepath['images'] / img
+                img = source_path['images'] / img
                 st.image(img, caption=MESSAGES[current_language]["uploadedImageCaption"])
 
         convert = st.button(MESSAGES[current_language]["aiWriter"], key=f"convert_{index}")
